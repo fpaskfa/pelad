@@ -1,2 +1,2 @@
-local ca = Instance.new("Part", ko)
+local ca = Instance.new("Part", workspace.Home)
 ca.Name = "cacasd"
